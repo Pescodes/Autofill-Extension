@@ -19,3 +19,5 @@ Until this is on the Chrome Web Store, you can install it manually:
 ## ⌨️ Shortcuts
 - **Fill All:** `Alt + P` (Mac/Windows)
 - **Individual Fields:** Right-click -> Fill Field -> [Select Platform]
+
+[View Privacy Policy](PRIVACY.md)
